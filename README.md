@@ -2,11 +2,9 @@
 
 ***Phase 1***
 
-*Project to combine Databricks and agentic AI; let's see where this goes.*
-
 > **Relevant repositories**:
 >
-> **See**: [`implementation` in main branch]([./implementation/](https://github.com/warriorsofnoobia/dbx-agentic-ai-project--ideation/tree/main/implementation))
+> **See**: [`implementation` in the `main` branch]([./implementation/](https://github.com/warriorsofnoobia/dbx-agentic-ai-project--ideation/tree/main/implementation))
 
 ---
 
