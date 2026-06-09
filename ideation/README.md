@@ -8,11 +8,13 @@
   - [Terminology Revision](#terminology-revision)
   - [Need for Tighter Control in Financial Decision](#need-for-tighter-control-in-financial-decision)
   - [Questioning the Use of LLM](#questioning-the-use-of-llm)
+  - [Clarify Specific Use-Cases](#clarify-specific-use-cases)
   - [Potential Direction: Control-Tower Decisions](#potential-direction-control-tower-decisions)
 - [Addressing Feedback on Phase 1](#addressing-feedback-on-phase-1)
   - [POINT: Terminology Revision](#point-terminology-revision)
   - [POINT: Need for Tighter Control in Financial Decisions](#point-need-for-tighter-control-in-financial-decisions)
   - [POINT: Questioning the Use of LLM](#point-questioning-the-use-of-llm)
+  - [POINT: Clarify Specific Use-Cases](#point-clarify-specific-use-cases)
   - [POINT: Potential Direction: Control-Tower Decisions](#point-potential-direction-control-tower-decisions)
 
 ---
@@ -42,6 +44,16 @@ Financial operations
 - Use of LLM for our use-case may not not ideal
 - May be okay at a smaller scale, but is not scalable
 - Time-series models may be better for forecasting purposes
+
+## Clarify Specific Use-Cases
+What are the actual business requirements we are trying to solve?
+
+- Fast-moving goods?
+- E-commerce setup?
+- Industrial warehouses with bulk orders?
+- etc.
+
+The business requirements will inform the technical requirements.
 
 ## Potential Direction: Control-Tower Decisions
 Potentially more valuable use-case:
@@ -91,6 +103,9 @@ Promising references:
     - Modelling layer (structured models for prediction)
     - Generative AI layer (for LLM-driven capabilities)
 - [*AI Agents in Supply Chain Management: Automating Inventory and Demand Forecasting*, **onereach.ai/blog**](https://onereach.ai/blog/ai-agents-in-supply-chain-inventory-and-forecasting-automation/)
+
+## POINT: Clarify Specific Use-Cases
+To be decided.
 
 ## POINT: Potential Direction: Control-Tower Decisions
 Out of scope.
