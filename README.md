@@ -4,7 +4,7 @@
 
 > **Relevant repositories**:
 >
-> **See**: [`implementation` in the `main` branch]([./implementation/](https://github.com/warriorsofnoobia/dbx-agentic-ai-project--ideation/tree/main/implementation))
+> **See**: [`implementation` in the `main` branch](https://github.com/warriorsofnoobia/dbx-agentic-ai-project--ideation/tree/main/implementation)
 
 ---
 
