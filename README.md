@@ -8,8 +8,13 @@
 
 ---
 
-- [`ideation`](./ideation/)
 - [`literature`](./literature/)
 - [`knowledgeBase`](./knowledgeBase/)
-- [`planning`](./planning/)
 - [`implementation`](./implementation/)
+
+---
+
+**Branches**:
+
+- [`phase-1`](https://github.com/warriorsofnoobia/dbx-agentic-ai-project--ideation/tree/phase-1)
+- [`phase-2`](https://github.com/warriorsofnoobia/dbx-agentic-ai-project--ideation/tree/phase-2)
