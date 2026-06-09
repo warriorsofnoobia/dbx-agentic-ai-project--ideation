@@ -4,7 +4,7 @@
 
 **Contents**:
 
-- [Feeback on Phase 1 to Work on](#feeback-on-phase-1-to-work-on)
+- [Feedback on Phase 1 to Work on](#feeback-on-phase-1-to-work-on)
   - [Terminology Revision](#terminology-revision)
   - [Need for Tighter Control in Financial Decision](#need-for-tighter-control-in-financial-decision)
   - [Questioning the Use of LLM](#questioning-the-use-of-llm)
@@ -19,7 +19,7 @@
 
 ---
 
-# Feeback on Phase 1 to Work on
+# Feedback on Phase 1 to Work on
 > **`phase-1` branch for reference**: [`phase-1`](https://github.com/warriorsofnoobia/dbx-agentic-ai-project--ideation/tree/phase-1)
 
 ## Terminology Revision
