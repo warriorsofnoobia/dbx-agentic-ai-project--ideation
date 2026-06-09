@@ -6,12 +6,17 @@
 
 > **Relevant repositories**:
 >
-> **See**: [`implementation`](./implementation/)
+> **See**: [`implementation` in main branch]([./implementation/](https://github.com/warriorsofnoobia/dbx-agentic-ai-project--ideation/tree/main/implementation))
 
 ---
 
 - [`ideation`](./ideation/)
-- [`literature`](./literature/)
-- [`knowledgeBase`](./knowledgeBase/)
 - [`planning`](./planning/)
-- [`implementation`](./implementation/)
+
+---
+
+The following are in the [`main`](https://github.com/warriorsofnoobia/dbx-agentic-ai-project--ideation/tree/main) branch:
+
+- `knowledgeBase`
+- `literature`
+- `implementation`
