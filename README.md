@@ -8,6 +8,8 @@
 
 ---
 
+Directories:
+
 - [`ideation`](./ideation/)
 - [`planning`](./planning/)
 
