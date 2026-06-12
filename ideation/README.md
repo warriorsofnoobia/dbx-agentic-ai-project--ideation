@@ -4,7 +4,7 @@
 
 **Contents**:
 
-- [Feedback on Phase 1 to Work on](#feeback-on-phase-1-to-work-on)
+- [Feedback on Phase 1 to Work on](#feedback-on-phase-1-to-work-on)
   - [Terminology Revision](#terminology-revision)
   - [Need for Tighter Control in Financial Decision](#need-for-tighter-control-in-financial-decision)
   - [Questioning the Use of LLM](#questioning-the-use-of-llm)
@@ -16,6 +16,7 @@
   - [POINT: Questioning the Use of LLM](#point-questioning-the-use-of-llm)
   - [POINT: Clarify Specific Use-Cases](#point-clarify-specific-use-cases)
   - [POINT: Potential Direction: Control-Tower Decisions](#point-potential-direction-control-tower-decisions)
+- [Read Further](#read-further)
 
 ---
 
@@ -109,3 +110,6 @@ To be decided.
 
 ## POINT: Potential Direction: Control-Tower Decisions
 Out of scope.
+
+# Read Further
+- [`problem-statement-and-architecture.md`](./problem-statement-and-architecture.md)
